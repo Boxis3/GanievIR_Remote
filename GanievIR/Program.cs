@@ -1,5 +1,5 @@
 ﻿using System;
-
+//solve task3
 class Program
 {
     static void Main()
